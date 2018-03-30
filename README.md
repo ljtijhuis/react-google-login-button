@@ -27,7 +27,7 @@ import GoogleLoginButton from 'react-google-login-button'
   render() {
     return (
       <GoogleLoginButton
-        googleClientId='818385300561-bvk0pjf09k2ojp9vdjhns08hh2ae36sl.apps.googleusercontent.com'
+        googleClientId='YOUR_GOOGLE_CLIENT_ID_HERE'
         onLoginSuccess={(googleUser) => {
           console.log('Replace this function to start using this information');
           console.log('Google User:', googleUser.getBasicProfile());
