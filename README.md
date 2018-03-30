@@ -2,6 +2,8 @@
 
 This component renders the Google Login button as per the [Google docs](https://developers.google.com/identity/sign-in/web/sign-in). Only difference is it is adapted for use in a React component.
 
+Check out [the Demo!](https://ljtijhuis.github.io/react-google-login-button/).
+
 ## Parameters
 
 | Key | Required / optional | Type | Default |
@@ -42,8 +44,6 @@ import GoogleLoginButton from 'react-google-login-button'
   
 [...]
 ```
-
-And make sure to check out the demo!
 
 ## References
 
