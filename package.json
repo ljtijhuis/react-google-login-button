@@ -1,6 +1,6 @@
 {
   "name": "react-google-login-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renders the Google Login button that will trigger Google's OAuth2 process. Highly customizable as per Google's documentation.",
   "main": "src/index.js",
   "scripts": {
